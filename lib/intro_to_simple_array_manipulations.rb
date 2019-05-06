@@ -39,5 +39,5 @@ def using_insert(arr, e)
 end
 
 def using_delete(arr,e)
-  arr.delete(arr.index(n))
+  arr.delete(arr.index(e))
 end
