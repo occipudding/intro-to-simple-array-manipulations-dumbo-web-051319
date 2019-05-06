@@ -13,3 +13,19 @@ end
 def pop_with_args(arr)
   arr.pop(2)
 end
+
+def using_shift(arr)
+  arr.shift
+end
+
+def shift_with_args(arr)
+  arr.shift(2)
+end
+
+def using_concat(a1,a2)
+  a1.concat(a2)
+end
+
+def using_insert(arr, e)
+  arr.insert(e,4)
+end
