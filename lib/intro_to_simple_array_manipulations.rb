@@ -38,6 +38,6 @@ def using_insert(arr, e)
   arr.insert(4,e)
 end
 
-def using_delete(arr,n)
+def using_delete(arr,e)
   arr.delete(arr.index(n))
 end
