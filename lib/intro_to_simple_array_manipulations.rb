@@ -37,3 +37,7 @@ end
 def using_insert(arr, e)
   arr.insert(4,e)
 end
+
+def using_delete(arr,e)
+  arr.delete(e)
+end
